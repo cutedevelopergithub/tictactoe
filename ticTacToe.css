@@ -1,0 +1,16 @@
+td{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    font-size: 95px;
+    font-family: 'Pattaya', sans-serif;
+}
+#a{
+    font-family: 'Pattaya', sans-serif;
+}
+body{
+    border-bottom: 1em solid #c18ff0;
+    border-right: 1em solid #c18ff0;
+    border-left: 1em solid #c18ff0;
+}
